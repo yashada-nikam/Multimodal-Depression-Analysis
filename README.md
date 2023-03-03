@@ -8,9 +8,9 @@ DATASET EEG data MODMA dataset - Lanzhou University
 3. Facial Expressions/Video Module
 DATASET DAIC-WOZ (Distress Analysis Interview Corpus Wizard-of-Oz)
 
-Team Members
+Team Members-
+1. Yashada Hemant Nikam
+2. Aditya Sanjay Mhaske
+3. Atharv Satish Nikam
+4. Anjali Sunil Nair
 
-Aditya Sanjay Mhaske
-Atharv Satish Nikam
-Anjali Sunil Nair
-Yashada Hemant Nikam
